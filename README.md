@@ -1,16 +1,5 @@
-# 👋 Halo, Saya Ahmad Radifa Lamadjuyu  
-
 > **Software Engineer | Backend Developer | IoT & Embedded Systems Enthusiast**  
 > _Sigi, Central Sulawesi — Indonesia_
-
----
-
-### 💼 Tentang Saya  
-Saya adalah seorang **Software Engineer** dengan keahlian di bidang **Backend Development**, **IoT**, dan **Embedded Systems**.  
-Berpengalaman membangun aplikasi **web dan mobile** berskala menengah hingga besar menggunakan **React.js**, **React Native (Expo)**, dan **Express.js**, serta mengintegrasikan sistem kompleks seperti **Hospital Information Systems (SIMRS)** dan perangkat laboratorium.  
-
-Saya percaya bahwa teknologi seharusnya menyelesaikan masalah nyata dengan cara yang efisien dan elegan.  
-Fokus saya saat ini adalah mengembangkan solusi berbasis **otomasi, integrasi sistem, dan kecerdasan buatan ringan (AI-assisted automation)** untuk meningkatkan produktivitas di dunia industri dan layanan publik.
 
 ---
 
@@ -43,7 +32,6 @@ Fokus saya saat ini adalah mengembangkan solusi berbasis **otomasi, integrasi si
 **🧰 Tools & Environment**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Linux CLI](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
@@ -53,6 +41,15 @@ Fokus saya saat ini adalah mengembangkan solusi berbasis **otomasi, integrasi si
 **⚡ Scripting & Automation**  
 ![Shell](https://img.shields.io/badge/-Shell_Script-5391FE?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+---
+
+### 💼 Tentang Saya  
+Saya adalah seorang **Software Engineer** dengan keahlian di bidang **Backend Development**, **IoT**, dan **Embedded Systems**.  
+Berpengalaman membangun aplikasi **web dan mobile** berskala menengah hingga besar menggunakan **React.js**, **React Native (Expo)**, dan **Express.js**, serta mengintegrasikan sistem kompleks seperti **Hospital Information Systems (SIMRS)** dan perangkat laboratorium.  
+
+Saya percaya bahwa teknologi seharusnya menyelesaikan masalah nyata dengan cara yang efisien dan elegan.  
+Fokus saya saat ini adalah mengembangkan solusi berbasis **otomasi, integrasi sistem, dan kecerdasan buatan ringan (AI-assisted automation)** untuk meningkatkan produktivitas di dunia industri dan layanan publik.
 
 ---
 
@@ -75,7 +72,7 @@ Fokus saya saat ini adalah mengembangkan solusi berbasis **otomasi, integrasi si
 
 ### 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadradifa)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-radifa)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AhmadR0)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmdradifah@gmail.com)
 
