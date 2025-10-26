@@ -1,4 +1,4 @@
-> **Software Engineer | Backend Developer | IoT & Embedded Systems Enthusiast**  
+# Software Engineer | Backend Developer | IoT & Embedded Systems Enthusiast  
 > _Sigi, Central Sulawesi — Indonesia_
 
 ---
@@ -50,23 +50,6 @@ Berpengalaman membangun aplikasi **web dan mobile** berskala menengah hingga bes
 
 Saya percaya bahwa teknologi seharusnya menyelesaikan masalah nyata dengan cara yang efisien dan elegan.  
 Fokus saya saat ini adalah mengembangkan solusi berbasis **otomasi, integrasi sistem, dan kecerdasan buatan ringan (AI-assisted automation)** untuk meningkatkan produktivitas di dunia industri dan layanan publik.
-
----
-
-### 🚀 Highlight Projects  
-
-- 🏥 **Hospital Queue & Speech System** — Web-based queue system with Speech-to-Text (React + Express) that improved patient flow and reduced manual operations.  
-- 🧯 **Oxygen Tank Management App** — Real-time oxygen tank tracking for hospitals using React Native + Express.js, fully replacing manual logs.  
-- 🧠 **Naive Bayes ASD Diagnostic System** — Early autism screening using Python + TypeScript, enhancing diagnostic accuracy.  
-- 🐄 **Livestock Expert System** — Disease diagnosis with the Certainty Factor method for explainable livestock health assessments.  
-- 🌐 **Politeknik Cendrawasih Web Profile** — Custom search and data archiving system deployed on client VPS for continuous uptime.  
-
----
-
-### 📊 GitHub Analytics  
-
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadR0&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadR0&layout=compact&theme=tokyonight)
 
 ---
 
